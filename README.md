@@ -24,7 +24,7 @@ java consoleEmployeeDatabase
 
 At start-up, the program asks for administrator credentials, editable within the source code but on default is set to: 
 
-username: `admin`
+username: `admin`<br>
 password: `1234`
 
 To clarify, this is a security liability. For more serious use cases, it is advised to implement concepts that would aid in obscuring sensitive data such as administrator credentials. The program developed is not suitable as an actual employee database. The creation of this mini project was solely to test the understanding of the developer.
