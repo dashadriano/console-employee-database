@@ -1,0 +1,21 @@
+# Compiled Java files
+*.class
+
+# Log files and temporary files
+*.log
+*.tmp
+
+# Editor backup and swap files
+*.swp
+*.bak
+
+# IDE-specific directories and files
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store 
+Thumbs.db  
