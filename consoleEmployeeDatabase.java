@@ -15,7 +15,7 @@ public class consoleEmployeeDatabase {
     private static final String[] departments = {"Management", "Marketing", "Human Resource", "Finance", "IT"};
     private static ArrayList<String[]> employeeList = new ArrayList<>();
 
-    // initializes data holders for new employee entrees
+    // initializes data holders for new employee entries
     private static String lastName;
     private static String firstName;
     private static String role;
